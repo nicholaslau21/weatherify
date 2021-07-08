@@ -2,12 +2,10 @@
 
 ## Quick Start
 
-```bash
 1. Clone the project using the HTTPS web URL.
 2. Navigate to the project directory using a terminal and then run `npm install` to install dependencies.
 3. Run `npm run dev`
 4. Open the URL `http://localhost:3000/` in your browser
-```
 
 ## Build Setup
 
